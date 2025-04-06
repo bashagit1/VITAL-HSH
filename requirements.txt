@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3
+matplotlib
+fpdf
+python-dotenv
+smtplib
+email.mime.text

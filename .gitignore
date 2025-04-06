@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore the SQLite database
+hsh_vitals.db
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore large files or logs
+logs/
+*.log
